@@ -13,12 +13,11 @@ This program contains background components and numerous application files. You 
          width="220">
 </a>
 
-# Installation Guide
 Note: Do not close the command window in the program until the  displays the message "PcBoot successfully loaded."
 
 
+https://github.com/user-attachments/assets/b3bf3a97-01c5-48fa-b789-51d06be704cf
 
-https://github.com/user-attachments/assets/008f98e6-d751-4d3a-8fd3-9f355b489026
 
 
 
