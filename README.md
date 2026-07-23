@@ -12,3 +12,4 @@ This program contains background components and numerous application files. You 
          alt="Windows Button"
          width="220">
 </a>
+#Installation Guide
