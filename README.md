@@ -18,6 +18,11 @@ Note: Do not close the command window in the program until the  displays the mes
 
 https://github.com/user-attachments/assets/b3bf3a97-01c5-48fa-b789-51d06be704cf
 
+# Versions
+Note: The feature to download versions has been added in v3.
+
+(Latest) V3 [İnstall](https://drive.google.com/file/d/1JDRFu5Qo6O-1GidhTetZsXUfVl2Gwr0l/view?usp=drive_link)
+
 
 
 
